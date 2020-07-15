@@ -21,8 +21,8 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
 # choose tweet
-name = 'realDonaldTrump'
-tweet_id = '1273666793362673665'
+name = 'BleacherReport'
+tweet_id = '1283403330757238785'
 
 # obtain replies
 replies=[]
